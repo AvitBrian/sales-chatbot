@@ -375,7 +375,7 @@ pyarrow==18.0.0
 pyarrow-hotfix==0.6
 pyasn1==0.6.0
 pyasn1_modules==0.4.0
-pyautogen==0.2.32
+ag2==0.2.32
 pycairo==1.25.1
 pycares==4.3.0
 pycparser==2.20
