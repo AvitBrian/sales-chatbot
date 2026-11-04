@@ -233,7 +233,7 @@ langchain-mongodb==0.1.6
 langchain-nvidia-ai-endpoints==0.1.4
 langchain-openai==0.1.17
 langchain-pinecone==0.1.2
-langchain-text-splitters==0.2.2
+langchain-text-splitters==0.3.9
 langchainhub==0.1.20
 langdetect==1.0.9
 langflow==1.0.10
