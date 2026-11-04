@@ -288,7 +288,7 @@ nest-asyncio==1.4.3
 netifaces==0.11.0
 networkx==3.3
 nftables==0.1
-nltk==3.9.1
+nltk==3.9.3
 nodeenv==1.9.1
 notebook==6.4.5
 notebook_shim==0.2.3
